@@ -1,3 +1,5 @@
+_Followed a tutorial on https://docs.localstack.cloud/tutorials/s3-static-website-terraform/_
+
 # S3 Static Website with Terraform
 
 ## Overview
